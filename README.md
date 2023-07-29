@@ -26,4 +26,4 @@
 
 ### 结果演示
 1. 主页面显示: ![](images/main-window.png)
-2. 其他的功能详细效果见Overall-Display.mp4演示
+2. 其他的功能详细效果见Overall-Display.mp4演示(下载后查看).
